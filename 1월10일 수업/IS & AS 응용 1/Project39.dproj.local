@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.699,=C:\Users\김영미\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.509,C:\Users\김영미\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\김영미\Documents\RAD Studio\Projects\IS &amp; AS 응용 1\Unit39.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.509,C:\Users\김영미\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\김영미\Documents\RAD Studio\Projects\IS &amp; AS 응용 1\Unit39.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.034,C:\Users\김영미\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\김영미\Documents\RAD Studio\Projects\IS &amp; AS 응용 1\Project39.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
