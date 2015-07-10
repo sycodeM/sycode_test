@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-	<Transactions>
-    <Transaction>1899-12-30 00:00:00.000.827,C:\Users\김영미\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\김영미\Documents\RAD Studio\Projects\1월10일 수업\Class Polymorphism(다형성) 2\Unit12.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.275,=C:\Users\김영미\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.827,C:\Users\김영미\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\김영미\Documents\RAD Studio\Projects\1월10일 수업\Class Polymorphism(다형성) 2\Unit12.dfm</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.804,C:\Users\김영미\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\김영미\Documents\RAD Studio\Projects\1월10일 수업\Class Polymorphism(다형성) 2\Project12.dproj</Transaction>
-  </Transactions>
-</BorlandProject>
